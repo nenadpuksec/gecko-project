@@ -1,6 +1,6 @@
-# my-first-nuxt-app
+# Open Weather
 
-> My supreme Nuxt.js project
+> Gecko test project
 
 ## Build Setup
 
